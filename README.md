@@ -1,3 +1,4 @@
 # gitskills
-dev 写的 git is free
-git is free
+dev 写的 
+
+bug 修复成功
